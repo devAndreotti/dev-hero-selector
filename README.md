@@ -1,9 +1,9 @@
 # Desafio DEV: Escolha Seu Personagem
 
 <div style="display: flex; justify-content: center; gap: 20px;">
-  <img src="./src/imagens/thor.jpg" alt="Thor" width="300" style="display: block;">
-  <img src="./src/imagens/hulk.jpg" alt="Hulk" width="300" style="display: block;">
-  <img src="./src/imagens/ultron.jpg" alt="Ultron" width="300" style="display: block;">
+  <img src="./src/imagens/thor.jpg" alt="Thor" width="250" style="display: block;">
+  <img src="./src/imagens/hulk.jpg" alt="Hulk" width="250" style="display: block;">
+  <img src="./src/imagens/ultron.jpg" alt="Ultron" width="250" style="display: block;">
 </div>
 
 ## Funcionalidades
