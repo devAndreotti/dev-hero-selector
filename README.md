@@ -18,6 +18,9 @@
 - **CSS3**: Estilos e animações.
 - **JavaScript**: Lógica de manipulação da DOM.
 
+Visualize o Projeto
+Você pode visualizar o projeto online através deste link.
+
 ## Como Executar
 
 1. Clone o repositório:
