@@ -18,8 +18,9 @@
 - **CSS3**: Estilos e animações.
 - **JavaScript**: Lógica de manipulação da DOM.
 
-Visualize o Projeto
-Você pode visualizar o projeto online através deste link.
+## Visualize o Projeto
+
+Você pode visualizar o projeto online através deste [link](https://devandreotti.github.io/dev-hero-selector/).
 
 ## Como Executar
 
