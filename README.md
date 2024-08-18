@@ -30,21 +30,12 @@ Este projeto, desenvolvido em um curso dos irmãos **Dev em Dobro**, é uma inte
 
 ## Contribuição
 
-Contribuições são bem-vindas! Siga os passos abaixo para colaborar:
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou fazer um fork do repositório e enviar pull requests.
 
 1. Faça um fork do projeto.
-2. Crie uma nova branch para sua feature:
-   ```bash
-   git checkout -b feature/nome-feature
-   ```
-3. Commit suas mudanças:
-   ```bash
-   git commit -m 'Adiciona nova feature'
-   ```
-4. Envie para a branch:
-   ```bash
-   git push origin feature/nome-feature
-   ```
+2. Crie uma nova branch para sua feature 'git checkout -b feature/nome-feature'.
+3. Commit suas mudanças 'git commit -m 'Adiciona nova feature''.
+4. Envie para a branch 'git push origin feature/nome-feature'.
 5. Abra um Pull Request.
 
 ## Nota
