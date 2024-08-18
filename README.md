@@ -4,10 +4,6 @@
   <img src="./src/imagens/hulk.png" alt="Tela de seleção de personagens" width="500"/>
 </div>
 
-## Descrição
-
-Este projeto, desenvolvido em um curso dos irmãos **Dev em Dobro**, é uma interface de seleção de personagens no estilo de jogos de luta. Os jogadores podem escolher heróis e vilões da Marvel, com a imagem e o nome do personagem principal sendo atualizados dinamicamente.
-
 ## Funcionalidades
 
 - **Interatividade**: Passe o mouse sobre um personagem para alterá-lo.
