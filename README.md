@@ -1,4 +1,4 @@
-# Desafio DEV - Escolha Seu Personagem
+# Desafio DEV: Escolha Seu Personagem
 
 <div align="center">
   <img src="./src/imagens/hulk.png" alt="Tela de seleção de personagens" width="500"/>
@@ -6,9 +6,7 @@
 
 ## Descrição do Projeto
 
-Este projeto é uma interface de seleção de personagens no estilo de jogos de luta, criado durante um curso dos irmãos **Dev em Dobro**. A aplicação permite aos jogadores escolher diferentes heróis e vilões da Marvel, atualizando dinamicamente a imagem e o nome do personagem principal selecionado. O projeto utiliza HTML, CSS e JavaScript para proporcionar uma experiência interativa e responsiva.
-
-Essa versão enfatiza o **Dev em Dobro** de forma clara. Se precisar de mais ajustes, é só avisar!
+Este projeto é uma interface de seleção de personagens no estilo de jogos de luta, criado durante um curso dos irmãos **Dev em Dobro**. A aplicação permite aos jogadores escolher diferentes heróis e vilões da Marvel, atualizando dinamicamente a imagem e o nome do personagem principal selecionado.
 
 ## Funcionalidades
 
