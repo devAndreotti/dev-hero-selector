@@ -4,55 +4,34 @@
   <img src="./src/imagens/hulk.png" alt="Tela de seleção de personagens" width="500"/>
 </div>
 
-## Descrição do Projeto
+## Descrição
 
-Este projeto é uma interface de seleção de personagens no estilo de jogos de luta, criado durante um curso dos irmãos **Dev em Dobro**. A aplicação permite aos jogadores escolher diferentes heróis e vilões da Marvel, atualizando dinamicamente a imagem e o nome do personagem principal selecionado.
+Este projeto, desenvolvido em um curso dos irmãos **Dev em Dobro**, é uma interface de seleção de personagens no estilo de jogos de luta. Os jogadores podem escolher heróis e vilões da Marvel, com a imagem e o nome do personagem principal sendo atualizados dinamicamente.
 
 ## Funcionalidades
 
-- **Interatividade com o Mouse**: Ao passar o mouse sobre os personagens, o personagem selecionado muda de aparência e seu nome aparece na área correspondente ao jogador.
-- **Alteração Dinâmica de Conteúdo**: A imagem e o nome do personagem principal são alterados automaticamente quando o jogador seleciona um novo personagem.
-- **Personagens Duplos**: Permite que dois jogadores escolham seus personagens independentemente.
+- **Interatividade**: Passe o mouse sobre um personagem para alterá-lo.
+- **Conteúdo Dinâmico**: A imagem e o nome do personagem principal mudam automaticamente.
+- **Dois Jogadores**: Jogador 2 permanece fixo como Ultron.
 
-## Tecnologias Utilizadas
+## Tecnologias
 
-- **HTML5**: Estrutura básica da aplicação.
-- **CSS3**: Estilização e animações dos personagens e da interface, dividido em arquivos para variáveis, reset, fontes, animações, estilos e responsividade.
-- **JavaScript**: Manipulação da DOM para implementar as funcionalidades dinâmicas, como a troca de personagens selecionados.
+- **HTML5**: Estrutura da aplicação.
+- **CSS3**: Estilos e animações.
+- **JavaScript**: Lógica de manipulação da DOM.
 
-## Como Executar o Projeto
+## Como Executar
 
-1. **Clone o Repositório**
-
-   No terminal, execute:
+1. Clone o repositório:
    ```bash
    git clone https://github.com/seu-usuario/character-select.git
    ```
-
-2. **Abra o Projeto no Navegador**
-
-   Navegue até o diretório do projeto e abra o arquivo `index.html` no seu navegador para visualizar a interface de seleção de personagens.
-
-## Exemplo de Uso
-
-Ao abrir o projeto no navegador, o jogador verá uma lista de personagens da Marvel. Ao passar o mouse sobre qualquer personagem na lista, o personagem principal (Jogador 1) será atualizado automaticamente, refletindo a escolha. O Jogador 2 permanece fixo no personagem Ultron, conforme a lógica implementada.
+2. Abra o `index.html` no navegador.
 
 ## Personalização
 
-Você pode adicionar mais personagens ao jogo ou alterar as imagens existentes:
-- Adicione novas imagens na pasta `src/imagens`.
-- Atualize o HTML e o JavaScript para incluir o novo personagem na seleção.
-
-## Contribuição
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou fazer um fork do repositório e enviar pull requests.
-
-1. Faça um fork do projeto.
-2. Crie uma nova branch para sua feature (`git checkout -b feature/nome-feature`).
-3. Commit suas mudanças (`git commit -m 'Adiciona nova feature'`).
-4. Envie para a branch (`git push origin feature/nome-feature`).
-5. Abra um Pull Request.
+Adicione personagens em `src/imagens` e atualize o HTML e o JavaScript para incluí-los.
 
 ## Nota
 
-Este projeto foi desenvolvido como parte do meu aprendizado em um curso oferecido pelo Dev em Dobro. O código e a lógica implementados seguem as diretrizes apresentadas no curso e servem como um exemplo educacional para aprimorar minhas habilidades em HTML, CSS e JavaScript. Sinta-se à vontade para explorar o projeto e adaptá-lo para seus próprios estudos.
+Este projeto é para fins educacionais, baseado no curso do **Dev em Dobro**. Sinta-se livre para explorar e adaptar.
