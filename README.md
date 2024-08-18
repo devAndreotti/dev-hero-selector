@@ -1,52 +1,58 @@
-Hero Selector
+# Character Select - Escolha Seu Personagem
+
 <div align="center">
-  <img src="https://example.com/hero-image.jpg" alt="Hero Selector Wallpaper" width="800" height="500"/>
+  <img src="./src/imagens/hulk.png" alt="Tela de seleção de personagens" width="500"/>
 </div>
-Descrição do Projeto
-O Hero Selector é uma aplicação web interativa desenvolvida para permitir que o usuário escolha entre diversos personagens icônicos da Marvel. À medida que o usuário passa o cursor sobre cada personagem, o personagem principal na tela é atualizado, criando uma experiência envolvente e dinâmica.
 
-Tecnologias Utilizadas
-HTML5: Estrutura básica da página.
-CSS3: Responsável pelo layout, animações e estilos visuais.
-JavaScript: Controla a interatividade e as funcionalidades do projeto.
-Funcionalidades
-Seleção dinâmica de personagens: Ao passar o mouse sobre um personagem na lista, a imagem e o nome do personagem principal são atualizados.
-Personagens destacados: A interface permite alternar facilmente entre os personagens heróis disponíveis.
-Como Executar o Projeto
-Clone o Repositório
+## Descrição do Projeto
 
-bash
-Copiar código
-git clone https://github.com/devAndreotti/dev-hero-selector.git
-Acesse a Pasta do Projeto
+Este projeto é uma interface de seleção de personagens no estilo de jogos de luta, permitindo aos jogadores escolher diferentes heróis e vilões da Marvel. Quando um personagem é selecionado, a imagem e o nome do jogador principal são atualizados dinamicamente. O projeto utiliza HTML, CSS e JavaScript para criar uma experiência interativa e responsiva.
 
-bash
-Copiar código
-cd dev-hero-selector
-Abra o Arquivo index.html no Navegador
+## Funcionalidades
 
-Basta abrir o arquivo index.html diretamente no navegador de sua escolha para visualizar o projeto em funcionamento.
-Estrutura de Pastas
-bash
-Copiar código
-├── src
-│   ├── css
-│   │   ├── variaveis.css
-│   │   ├── reset.css
-│   │   ├── fontes.css
-│   │   ├── animacoes.css
-│   │   ├── estilos.css
-│   │   └── responsivo.css
-│   ├── imagens
-│   │   ├── thor.png
-│   │   ├── homem-de-ferro.png
-│   │   ├── hulk.png
-│   │   └── ...
-│   └── js
-│       └── index.js
-└── index.html
-Contribuições
-Fique à vontade para contribuir com o projeto! Basta abrir um pull request ou relatar algum problema nas issues.
+- **Interatividade com o Mouse**: Ao passar o mouse sobre os personagens, o personagem selecionado muda de aparência e seu nome aparece na área correspondente ao jogador.
+- **Alteração Dinâmica de Conteúdo**: A imagem e o nome do personagem principal são alterados automaticamente quando o jogador seleciona um novo personagem.
+- **Personagens Duplos**: Permite que dois jogadores escolham seus personagens independentemente.
 
-Licença
-Este projeto está licenciado sob a MIT License.
+## Tecnologias Utilizadas
+
+- **HTML5**: Estrutura básica da aplicação.
+- **CSS3**: Estilização e animações dos personagens e da interface, dividido em arquivos para variáveis, reset, fontes, animações, estilos e responsividade.
+- **JavaScript**: Manipulação da DOM para implementar as funcionalidades dinâmicas, como a troca de personagens selecionados.
+
+## Como Executar o Projeto
+
+1. **Clone o Repositório**
+
+   No terminal, execute:
+   ```bash
+   git clone https://github.com/seu-usuario/character-select.git
+   ```
+
+2. **Abra o Projeto no Navegador**
+
+   Navegue até o diretório do projeto e abra o arquivo `index.html` no seu navegador para visualizar a interface de seleção de personagens.
+
+## Exemplo de Uso
+
+Ao abrir o projeto no navegador, o jogador verá uma lista de personagens da Marvel. Ao passar o mouse sobre qualquer personagem na lista, o personagem principal (Jogador 1) será atualizado automaticamente, refletindo a escolha. O Jogador 2 permanece fixo no personagem Ultron, conforme a lógica implementada.
+
+## Personalização
+
+Você pode adicionar mais personagens ao jogo ou alterar as imagens existentes:
+- Adicione novas imagens na pasta `src/imagens`.
+- Atualize o HTML e o JavaScript para incluir o novo personagem na seleção.
+
+## Contribuição
+
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou fazer um fork do repositório e enviar pull requests.
+
+1. Faça um fork do projeto.
+2. Crie uma nova branch para sua feature (`git checkout -b feature/nome-feature`).
+3. Commit suas mudanças (`git commit -m 'Adiciona nova feature'`).
+4. Envie para a branch (`git push origin feature/nome-feature`).
+5. Abra um Pull Request.
+
+## Licença
+
+Este projeto está licenciado sob a licença MIT. Consulte o arquivo `LICENSE` para mais informações.
