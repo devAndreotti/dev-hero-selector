@@ -1,7 +1,7 @@
 # Desafio DEV: Escolha Seu Personagem
 
 <div align="center">
-  <img src="./src/imagens/hulk.png" alt="Tela de seleção de personagens" width="500"/>
+  <img src="./src/imagens/hulk.png" alt="Tela de seleção de personagens" width="300"/>
 </div>
 
 ## Funcionalidades
