@@ -3,7 +3,7 @@
 <div style="display: flex; justify-content: center; gap: 20px;">
   <img src="./src/imagens/thor.jpg" alt="Thor" width="300" style="display: block;">
   <img src="./src/imagens/hulk.jpg" alt="Hulk" width="300" style="display: block;">
-  <img src="./src/imagens/ironman.jpg" alt="Iron Man" width="300" style="display: block;">
+  <img src="./src/imagens/ironman.jpg" alt="ultron.jpg" width="300" style="display: block;">
 </div>
 
 ## Funcionalidades
