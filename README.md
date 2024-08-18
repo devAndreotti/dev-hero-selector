@@ -53,6 +53,6 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou fazer 
 4. Envie para a branch (`git push origin feature/nome-feature`).
 5. Abra um Pull Request.
 
-## Licença
+## Nota
 
-Este projeto está licenciado sob a licença MIT. Consulte o arquivo `LICENSE` para mais informações.
+Este projeto foi desenvolvido como parte do meu aprendizado em um curso oferecido pelo Dev em Dobro. O código e a lógica implementados seguem as diretrizes apresentadas no curso e servem como um exemplo educacional para aprimorar minhas habilidades em HTML, CSS e JavaScript. Sinta-se à vontade para explorar o projeto e adaptá-lo para seus próprios estudos.
