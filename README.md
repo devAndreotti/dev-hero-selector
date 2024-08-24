@@ -1,9 +1,10 @@
+<!-- Projeto Finalizado -->
 # Desafio DEV: Escolha Seu Personagem
 
 <div align="center">
-  <img src="./src/imagens/thor.jpg" alt="Thor" width="250" style="display: block;">
-  <img src="./src/imagens/hulk.jpg" alt="Hulk" width="250" style="display: block;">
-  <img src="./src/imagens/ultron.jpg" alt="Ultron" width="250" style="display: block;">
+  <img src="./src/imagens/thor.jpg" alt="Thor Banner" width="250" style="display: block;">
+  <img src="./src/imagens/hulk.jpg" alt="Hulk Banner" width="250" style="display: block;">
+  <img src="./src/imagens/ultron.jpg" alt="Ultron Banner" width="250" style="display: block;">
 </div>
 
 ## Funcionalidades
@@ -12,15 +13,15 @@
 - **Conteúdo Dinâmico**: A imagem e o nome do personagem principal mudam automaticamente.
 - **Dois Jogadores**: Jogador 2 permanece fixo como Ultron.
 
+## Visualize o Projeto
+
+Você pode visualizar o projeto online através deste [link](https://devandreotti.github.io/dev-hero-selector/).
+
 ## Tecnologias
 
 - **HTML5**: Estrutura da aplicação.
 - **CSS3**: Estilos e animações.
 - **JavaScript**: Lógica de manipulação da DOM.
-
-## Visualize o Projeto
-
-Você pode visualizar o projeto online através deste [link](https://devandreotti.github.io/dev-hero-selector/).
 
 ## Como Executar
 
