@@ -1,5 +1,5 @@
 <!-- Projeto Finalizado -->
-# Desafio DEV: Escolha Seu Personagem
+# ⚔️ Desafio DEV: Escolha Seu Personagem
 
 <p align="center">
   <!-- Contador de linguagens do GitHub -->
