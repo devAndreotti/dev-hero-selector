@@ -31,7 +31,7 @@ Você pode visualizar o projeto online através deste [link](https://devandreott
 ## 🚀 Como Executar
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/seu-usuario/character-select.git
+   git clone https://github.com/devAndreotti/dev-hero-selector.git
    ```
 2. **Abra o `index.html` no navegador**.
 
