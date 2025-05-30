@@ -50,3 +50,5 @@ Este projeto é para fins educacionais, baseado no curso do **Dev em Dobro**. Si
 
 ---
 <p align="center"> Desenvolvido por <a href="https://github.com/devAndreotti">Ricardo Andreotti Gonçalves</a> </p>
+
+---
