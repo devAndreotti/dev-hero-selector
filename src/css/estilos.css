@@ -70,7 +70,8 @@ main{
     position: absolute;
     bottom: 0;
     width: 100%;
-    font-size: 27px;
+    font-size: 23px;
+    white-space: nowrap;
 }
 
 .selecao-de-personagens .personagem-grande.personagem-jogador-1 .nome::before {
